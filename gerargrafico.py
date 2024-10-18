@@ -60,4 +60,4 @@ fig.update_layout(xaxis_title='Data', yaxis_title='Tarefa')
 
 
 # fig.show()
-pyo.plot(fig, filename='cronograma.html')
+pyo.plot(fig, filename='index.html')
